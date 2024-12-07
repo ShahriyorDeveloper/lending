@@ -1,0 +1,148 @@
+{
+  "registrationBtn": {
+    "title": "Log in"
+  },
+  "download" : "Download",
+  "nav_titles" : {
+    "title1": "Services",
+    "title2": "Create a business card",
+    "title3": "Support"
+  },
+  "headerBlock1": {
+    "title": "Tourism",
+    "description": "A tourist space for convenient planning and recreation"
+  },
+  "headerBlock2": {
+    "title": "Real estate",
+    "description": "We provide a wide range of services in the real estate market"
+  },
+  "headerBlock3": {
+    "title": "Information Portal",
+    "description": "Basic services to ease everyday worries"
+  },
+  "headerBlock4": {
+    "title": "Stay updated with the latest trends with us!",
+    "description": "We create engaging content and share useful materials."
+  },
+
+  "popover_headings" : {
+    "title1": "Solutions for your everyday concerns",
+    "title2": "Everything you need for your vacation",
+    "title3": "All about real estate in one place"
+  },
+  "popover_block1" : {
+    "title1": "Information Portal",
+    "title2": "Gastronomic Hub",
+    "title3": "Discounts and Promotions",
+    "description1": "Stay updated on events in culture, entertainment, and leisure.",
+    "description2": "Online menu, delivery, pickup, and table reservations.",
+    "description3": "Save money on a wide range of services and products."
+  },
+  "popover_block2" : {
+    "title1": "Country houses",
+    "title2": "Resorts",
+    "title3": "Sanatoriums ",
+    "title4": "Hostels ",
+    "title5": "Hotels",
+    "title6": "Tours",
+    "title7": "Tickets ",
+    "description1": "Book cottages online with bargaining - easy and profitable!",
+    "description2": "A wide selection of resorts for your comfort.",
+    "description3": "Book sanatoriums online - caring for your health made easier.",
+    "description4": "Choose hostels for comfortable and budget-friendly stays.",
+    "description5": "Find the perfect hotel for your trip.",
+    "description6": "Convenient search and a wide range of travel packages.",
+    "description7": "Great offers for your trip"
+  },
+  "popover_block3" : {
+    "title1": "Rent",
+    "title2": "Sale",
+    "title3": "Developers  ",
+    "title4": "Realtors ",
+    "title5": "Valuation",
+    "title6": "Evaluate",
+    "title7": "Mortgage ",
+    "title8": "More services ",
+    "description1": "facere possimus, omnis voluptas assumenda ",
+    "description2": "facere possimus, omnis voluptas assumenda ",
+    "description3": "facere possimus, omnis voluptas assumenda ",
+    "description4": "facere possimus, omnis voluptas assumenda ",
+    "description5": "facere possimus, omnis voluptas assumenda ",
+    "description6": "facere possimus, omnis voluptas assumenda ",
+    "description7": "facere possimus, omnis voluptas assumenda ",
+    "description8": "facere possimus, omnis voluptas assumenda "
+
+  },
+  "mainTitle1": "Compare prices, find the best deals and use transparent terms",
+  "mainTitle2": "Intuitive and user-friendly interface for quick and comfortable use",
+  "mainTitle3": "A wide range of necessary services and goods in one place - we save time and simplify your life",
+  
+  "mainFirst": {
+    "title1": "Get cutback for purchases and other actions in the Vistca superapp - we make your experience even more profitable and simple.",
+    "title2": "actions in the Vistca superapp - we make",
+    "title3": "your experience even more profitable and .",
+    "title4": "simple.",
+    "link": "Learn more "
+  },
+  "playStore": {
+    "title1": "Make your life easier with our app",
+    "title2": "Solutions for managing and developing your business"
+  },
+  "mainBottom": {
+    "title": "All for You",
+    "description" : "We offer cashback, discounts, and promotions ",
+    "description2" : "for every action in the Visitca super app, making the platform",
+    "description3" : "  not only convenient but also beneficial."
+  },
+
+  "cardsTitles": {
+    "titleFirst": "Information Portal",
+    "titleSecond": "Tourism",
+    "description1": "Plan and book your vacation online, wherever you are.",
+    "titleThird": "Real Estate Portal",
+    "description2": "Resolve any real estate issues online without leaving home.",
+    "titleFourth": "Transport",
+    "description3": "Instantly book and buy tickets online anytime."
+  },
+  "cardsData": {
+    "title1": "Tourism Space",
+    "title2": "Ticket Booking",
+    "title3": "All About Food",
+    "title4": "Dachas, Recreational Areas, and Sanatoriums",
+    "title5": "Hostels and Hotels",
+    "title6": "Tours",
+    "title7": "Buying, Selling, and Renting",
+    "title8": "Mortgage Services",
+    "title9": "Daily Services",
+    "title10": "Intercity Taxis and Buses",
+    "title11": "Trains",
+    "title12": "Flights",
+    "description1": "A platform for the community of travelers, bloggers, and guides where you can organize trips together or simply share your experiences and impressions to earn.",
+    "description2": "We develop and expand the area of booking tickets for cultural and entertainment events, including museums, concerts, theaters, cinemas, festivals, and exhibitions, creating a unified space for cultural leisure and recreation.",
+    "description3": "Discover the culinary world with our gastronomic navigator: explore menus, reserve tables, and order delivery conveniently online.",
+    "description4": "",
+    "description5": "",
+    "description6": "",
+    "description7": "",
+    "description8": "",
+    "description9": "",
+    "description10": "",
+    "description11": "",
+    "description12": ""
+  },
+  "footer": {
+    "titleLi1": "Services",
+    "titleLi2": "Create a business card",
+    "titleLi3": "Questions and answers",
+    "titleLi4": "Support",
+    "titleLi5": "About the company",
+    "titleLi6": "Privacy",
+    "titleH3": "Stay Informed",
+    "copyryting": "Untitled UI. All rights reserved.",
+    "title7": "Terms",
+    "title8": "Privacy",
+    "title9": "Cookies",
+    "subscribe": "Subscribe",
+    "placeholder": "Enter email address"
+  }
+}

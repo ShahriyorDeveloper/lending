@@ -1,0 +1,135 @@
+{
+  "registrationBtn": {
+    "title": "Kirish"
+  },
+  "download": "Yuklab olish",
+  "nav_titles": {
+    "title1": "Xizmatlar",
+    "title2": "Vizitka yaratish",
+    "title3": "Qo'llab-quvvatlash"
+  },
+  "headerBlock1": {
+    "title": "Turizm",
+    "description": "Qulay rejalashtirish va dam olish uchun turistik maydon"
+  },
+  "headerBlock2": {
+    "title": "Ko'chmas mulk",
+    "description": "Biz ko'chmas mulk bozorida keng xizmatlar spektrini taqdim etamiz"
+  },
+  "headerBlock3": {
+    "title": "Axborot portali",
+    "description": "Kunlik muammolarni yengillashtirish uchun asosiy xizmatlar"
+  },
+  "headerBlock4": {
+    "title": "So'nggi trendlar bilan biz bilan yangiliklardan xabardor bo'ling!",
+    "description": "Biz qiziqarli kontent yaratamiz va foydali materiallar ulashamiz."
+  },
+  "popover_headings": {
+    "title1": "Kunlik muammolaringiz uchun yechimlar",
+    "title2": "Ta'til uchun kerak bo'lgan barcha narsalar",
+    "title3": "Ko'chmas mulk haqida barcha ma'lumot bir joyda"
+  },
+  "popover_block1": {
+    "title1": "Axborot portali",
+    "title2": "Gastronomik markaz",
+    "title3": "Chegirmalar va aktsiyalar",
+    "description1": "Madaniyat, o'yin-kulgi va dam olish tadbirlari haqida xabardor bo'ling.",
+    "description2": "Onlayn menyu, yetkazib berish, olib ketish va stol buyurtma qilish.",
+    "description3": "Keng xizmatlar va mahsulotlar turida mablag'ingizni tejang."
+  },
+  "popover_block2": {
+    "title1": "Qishloq uylari",
+    "title2": "Dam olish maskanlari",
+    "title3": "Sanatoriyalar",
+    "title4": "Hostellar",
+    "title5": "Mehmonxonalar",
+    "title6": "Sayohatlar",
+    "title7": "Chiptalar",
+    "description1": "Qulay va foydali ravishda onlayn kottejlarni bron qiling!",
+    "description2": "Sizning qulayligingiz uchun dam olish maskanlarining keng tanlovi.",
+    "description3": "Sanatoriyalarni onlayn bron qiling — sog'lig'ingiz haqida g'amxo'rlik qilish osonroq.",
+    "description4": "Qulay va byudjetga mos yashash uchun hostellarni tanlang.",
+    "description5": "Sayohatingiz uchun mukammal mehmonxonani toping.",
+    "description6": "Qulay qidiruv va keng turistik paketlar tanlovi.",
+    "description7": "Sayohatingiz uchun ajoyib takliflar"
+  },
+  "popover_block3": {
+    "title1": "Ijaraga berish",
+    "title2": "Sotish",
+    "title3": "Quruvchilar",
+    "title4": "Rieltorlar",
+    "title5": "Baholash",
+    "title6": "Baholang",
+    "title7": "Ipoteka",
+    "title8": "Qo'shimcha xizmatlar",
+    "description1": "facere possimus, omnis voluptas assumenda",
+    "description2": "facere possimus, omnis voluptas assumenda",
+    "description3": "facere possimus, omnis voluptas assumenda",
+    "description4": "facere possimus, omnis voluptas assumenda",
+    "description5": "facere possimus, omnis voluptas assumenda",
+    "description6": "facere possimus, omnis voluptas assumenda",
+    "description7": "facere possimus, omnis voluptas assumenda",
+    "description8": "facere possimus, omnis voluptas assumenda"
+  },
+  "mainTitle1": "Narxlarni solishtiring, eng yaxshi takliflarni toping va shaffof shartlardan foydalaning",
+  "mainTitle2": "Tez va qulay foydalanish uchun intuitiv va qulay interfeys",
+  "mainTitle3": "Kerakli xizmatlar va mahsulotlarning keng spektri bir joyda — biz vaqtingizni tejaymiz va hayotingizni soddalashtiramiz",
+  "mainFirst": {
+    "title1": "Vistca superilovasida xaridlar va boshqa harakatlar uchun keshbek oling — biz sizning tajribangizni yanada foydali va oson qilamiz.",
+    "title2": "Vistca superilovasidagi harakatlar — biz",
+    "title3": "tajribangizni yanada foydali va",
+    "title4": "soddalashtiramiz.",
+    "link": "Batafsil bilib olish"
+  },
+  "playStore": {
+    "title1": "Hayotingizni bizning ilova yordamida osonlashtiring",
+    "title2": "Biznesingizni boshqarish va rivojlantirish uchun yechimlar"
+  },
+  "mainBottom": {
+    "title": "Hammasi siz uchun",
+    "description": "Biz keshbek, chegirmalar va aktsiyalarni taklif qilamiz",
+    "description2": "Vistca superilovasidagi har bir harakat uchun, platformani",
+    "description3": "nafaqat qulay, balki foydali qiladi."
+  },
+  "cardsTitles": {
+    "titleFirst": "Axborot portali",
+    "titleSecond": "Turizm",
+    "description1": "Qaerda bo'lsangiz ham, dam olishingizni onlayn rejalashtiring va bron qiling.",
+    "titleThird": "Ko'chmas mulk portali",
+    "description2": "Ko'chmas mulk bilan bog'liq masalalarni uyda o'tirib hal qiling.",
+    "titleFourth": "Transport",
+    "description3": "Chiptalarni istalgan vaqtda onlayn bron qilish va sotib olish imkoniyati."
+  },
+  "cardsData": {
+    "title1": "Turistik makon",
+    "title2": "Chipta bron qilish",
+    "title3": "Oziq-ovqat haqida hammasi",
+    "title4": "Dachalar, dam olish zonalari va sanatoriyalar",
+    "title5": "Hostellar va mehmonxonalar",
+    "title6": "Sayohatlar",
+    "title7": "Xarid qilish, sotish va ijaraga olish",
+    "title8": "Ipoteka xizmatlari",
+    "title9": "Kunlik xizmatlar",
+    "title10": "Shaharlararo taksi va avtobuslar",
+    "title11": "Poyezdlar",
+    "title12": "Parvozlar",
+    "description1": "Sayohatchilar, blogerlar va gidlar jamoasi uchun platforma, bu yerda birgalikda safar uyushtirish yoki tajribangiz va taassurotlaringiz bilan o'rtoqlashish orqali daromad olish mumkin.",
+    "description2": "Biz madaniy va ko'ngilochar tadbirlar uchun chipta bron qilish sohasini rivojlantiramiz va kengaytiramiz, jumladan muzeylar, konsertlar, teatrlar, kinoteatrlar, festivallar va ko'rgazmalar, madaniy dam olish uchun yagona makon yaratamiz.",
+    "description3": "Bizning gastronomik yo'riqchimiz yordamida oziq-ovqat dunyosini kashf eting: menyularni o'rganing, stol buyurtma qiling va yetkazib berishni qulay onlayn tarzda amalga oshiring."
+  },
+  "footer": {
+    "titleLi1": "Xizmatlar",
+    "titleLi2": "Vizitka yaratish",
+    "titleLi3": "Savollar va javoblar",
+    "titleLi4": "Qo'llab-quvvatlash",
+    "titleLi5": "Kompaniya haqida",
+    "titleLi6": "Maxfiylik",
+    "titleH3": "Yangiliklardan xabardor bo'ling",
+    "copyryting": "Untitled UI. Barcha huquqlar himoyalangan.",
+    "title7": "Shartlar",
+    "title8": "Maxfiylik",
+    "title9": "Cookies",
+    "subscribe": "Obuna bo'lish",
+    "placeholder": "Elektron pochta manzilini kiriting"
+  }
+}
