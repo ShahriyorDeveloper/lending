@@ -48,7 +48,8 @@ const Header = () => {
                   variant="outline"
                   className="px-5 py-3 hover:bg-transparent bg-transparent border-none text-nav_link font-semibold text-[20px] leading-6"
                 >
-                  {t("nav_titles.title1")} <Image src={down} alt="down" className="" />
+                  {t("nav_titles.title1")}{" "}
+                  <Image src={down} alt="down" className="" />
                 </Button>
               </PopoverTrigger>
               <PopoverContent className="w-[1300px] mx-auto rounded-[24px] p-8 mt-3">
@@ -62,15 +63,14 @@ const Header = () => {
                         <Image
                           src={moshina}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
                             {t("popover_block1.title1")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block1.description1")}
+                            {t("popover_block1.description1")}
                           </p>
                         </div>
                       </div>
@@ -78,27 +78,29 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block1.title2")}
+                            {t("popover_block1.title2")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block1.description2")}
+                            {t("popover_block1.description2")}
                           </p>
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block1.title3")}
+                            {t("popover_block1.title3")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block1.description3")}
+                            {t("popover_block1.description3")}
                           </p>
                         </div>
                       </div>
@@ -113,27 +115,29 @@ const Header = () => {
                         <Image
                           src={moshina}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title1")}
+                            {t("popover_block2.title1")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description1")}
+                            {t("popover_block2.description1")}
                           </p>
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title2")}
+                            {t("popover_block2.title2")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description2")}
+                            {t("popover_block2.description2")}
                           </p>
                         </div>
                       </div>
@@ -141,15 +145,14 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title3")}
+                            {t("popover_block2.title3")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description3")}
+                            {t("popover_block2.description3")}
                           </p>
                         </div>
                       </div>
@@ -157,39 +160,44 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title4")}
+                            {t("popover_block2.title4")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description4")}
+                            {t("popover_block2.description4")}
                           </p>
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={moshina} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={moshina}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title5")}
+                            {t("popover_block2.title5")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description5")}
+                            {t("popover_block2.description5")}
                           </p>
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title6")}
+                            {t("popover_block2.title6")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description6")}
+                            {t("popover_block2.description6")}
                           </p>
                         </div>
                       </div>
@@ -197,15 +205,14 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
-                             {t("popover_block2.title7")}
+                            {t("popover_block2.title7")}
                           </h3>
                           <p className="text-nav_link font-medium text-[16px] leading-[24px]">
-                            
-                             {t("popover_block2.description7")}
+                            {t("popover_block2.description7")}
                           </p>
                         </div>
                       </div>
@@ -220,7 +227,7 @@ const Header = () => {
                         <Image
                           src={moshina}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
@@ -236,7 +243,7 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
@@ -249,7 +256,11 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
                             Information Portal
@@ -264,7 +275,7 @@ const Header = () => {
                         <Image
                           src={moshina}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
@@ -280,7 +291,7 @@ const Header = () => {
                         <Image
                           src={savat}
                           alt="moshina"
-                          className="mr-[20px]"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
                         />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
@@ -293,7 +304,11 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
                             Information Portal
@@ -305,7 +320,11 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center">
-                        <Image src={uy} alt="moshina" className="mr-[20px]" />
+                        <Image
+                          src={uy}
+                          alt="moshina"
+                          className="mr-[20px] w-[56px] h-[56px] rounded-[14px]"
+                        />
                         <div>
                           <h3 className="text-nav_link font-medium text-[20px] leading-[28px]">
                             Information Portal
@@ -331,7 +350,7 @@ const Header = () => {
               href="/"
               className="pl-5 pr-10 py-3 text-nav_link font-semibold text-[20px] leading-6"
             >
-               {t("nav_titles.title3")}
+              {t("nav_titles.title3")}
             </Link>
             <LocalSwitcher />
             <button className="ml-6 text-white font-medium w-[108px] text-[20px] leading-6 h-[48px] rounded-[12px] bg-nav_button">
@@ -366,7 +385,7 @@ const Header = () => {
             <Popover>
               <PopoverTrigger asChild>
                 <button className="flex justify-between hover:bg-transparent bg-transparent border-none text-nav_link font-semibold text-[14px] leading-4">
-                {t("nav_titles.title1")} <Image src={down} alt="down" />
+                  {t("nav_titles.title1")} <Image src={down} alt="down" />
                 </button>
               </PopoverTrigger>
               <PopoverContent className="w-[370px] mx-auto rounded-[24px] p-3 mt-3">
@@ -529,11 +548,7 @@ const Header = () => {
                     </h2>
                     <div className="flex flex-col">
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title1")}
@@ -544,11 +559,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title2")}
@@ -559,11 +570,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title3")}
@@ -574,11 +581,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title4")}
@@ -589,11 +592,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title5")}
@@ -604,11 +603,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title6")}
@@ -619,11 +614,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title7")}
@@ -634,11 +625,7 @@ const Header = () => {
                         </div>
                       </div>
                       <div className="flex items-center mt-3">
-                        <Image
-                          src={uy}
-                          alt="uy"
-                          className="mr-[12px]"
-                        />
+                        <Image src={uy} alt="uy" className="mr-[12px]" />
                         <div>
                           <h3 className="text-nav_link font-normal text-[18px] leading-[20px]">
                             {t("popover_block3.title8")}

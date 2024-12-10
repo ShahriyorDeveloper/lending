@@ -1,7 +1,6 @@
 import "./globals.css";
 
 import type { Metadata } from "next";
-import Head from "next/head";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 
@@ -26,9 +25,6 @@ export default async function RootLayout({
   const messages = await getMessages({ locale });
   return (
     <html lang={locale}>
-      <Head>
-        <link rel="icon" href="../../../public/svgs/logo.svg" sizes="any" />
-      </Head>
       <body className={`${greycliff.variable} antialiased bg-body_bg`}>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Header />
